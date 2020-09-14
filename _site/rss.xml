@@ -5,43 +5,12 @@
     <description>iOSer</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Sep 2020 19:35:13 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2020 19:35:13 +0800</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2020 20:04:36 +0800</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2020 20:04:36 +0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>MathJax Test</title>
-        <description>&lt;p&gt;mathjax in markdown :)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;这是一个不&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;align&lt;/code&gt;的公式&lt;/strong&gt;：&lt;/p&gt;
-
-\[\forall \alpha \in A, \quad a \cdot b = 0\]
-
-&lt;p&gt;&lt;strong&gt;这是一个&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;align&lt;/code&gt;的公式&lt;/strong&gt;：&lt;/p&gt;
-
-\[\text{for OTP : $\qquad$ if }\quad E(k,\:m)=c\\
-\begin{align}
-k\oplus m &amp;amp;= c \\
-k &amp;amp;= m\oplus c
-\end{align}
-\\
-\#\{\;k \in \mathscr K : \quad E(k,\:m)=c \;\}=1 \quad \forall m,\:c\]
-
-&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;公式块要想有较好的显示效果，必须在公式块标记符&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$$&lt;/code&gt;&lt;strong&gt;前后&lt;/strong&gt;留有空行，否则公式将不能正常居中。行内公式无此问题。&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 Jul 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/07/30/mathjax-test.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/07/30/mathjax-test.html</guid>
-        
-        <category>mathjax</category>
-        
-        
-        <category>test</category>
-        
-      </item>
-    
-      <item>
-        <title>H2O theme for Jekyll</title>
+        <title>sunjunbing的技术博客</title>
         <description>&lt;p&gt;正如我在&lt;a href=&quot;http://weibo.com/1374146504/profile?topnav=1&amp;amp;wvr=6&quot;&gt;微博&lt;/a&gt;上所说的，使用&lt;a href=&quot;http://jekyll.com.cn/&quot;&gt;Jekyll&lt;/a&gt;半年以来一直没有令我满意的主题模板，所以开始计划自己写一套好看又好用的主题模板。设计之初就明确了极简主义，风格采用扁平化了，通过卡片式设计来进行区块分明的布局，参考了Medium的ui样式和知乎专栏的视觉风格。&lt;/p&gt;
 
 &lt;h2 id=&quot;h2o&quot;&gt;H2O&lt;/h2&gt;
@@ -160,18 +129,43 @@ k &amp;amp;= m\oplus c
 
 &lt;p&gt;这次从0到1，独自设计、开发再到发布大约用了一周时间，也算完成一个小小的开源项目了，后续也将持续完善和更新，欢迎&lt;a href=&quot;https://github.com/kaeyleo/jekyll-theme-H2O&quot;&gt;Star&lt;/a&gt;。&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Apr 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/04/18/new-theme-h2o.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/18/new-theme-h2o.html</guid>
-        
-        <category>jekyll</category>
-        
-        <category>前端开发</category>
-        
-        <category>设计</category>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/09/10/new-theme-h2o.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/09/10/new-theme-h2o.html</guid>
         
         
         <category>技术</category>
+        
+      </item>
+    
+      <item>
+        <title>MathJax Test</title>
+        <description>&lt;p&gt;mathjax in markdown :)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;这是一个不&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;align&lt;/code&gt;的公式&lt;/strong&gt;：&lt;/p&gt;
+
+\[\forall \alpha \in A, \quad a \cdot b = 0\]
+
+&lt;p&gt;&lt;strong&gt;这是一个&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;align&lt;/code&gt;的公式&lt;/strong&gt;：&lt;/p&gt;
+
+\[\text{for OTP : $\qquad$ if }\quad E(k,\:m)=c\\
+\begin{align}
+k\oplus m &amp;amp;= c \\
+k &amp;amp;= m\oplus c
+\end{align}
+\\
+\#\{\;k \in \mathscr K : \quad E(k,\:m)=c \;\}=1 \quad \forall m,\:c\]
+
+&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;公式块要想有较好的显示效果，必须在公式块标记符&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$$&lt;/code&gt;&lt;strong&gt;前后&lt;/strong&gt;留有空行，否则公式将不能正常居中。行内公式无此问题。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Jul 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/07/30/mathjax-test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/30/mathjax-test.html</guid>
+        
+        <category>mathjax</category>
+        
+        
+        <category>test</category>
         
       </item>
     
