@@ -9,7 +9,7 @@ tags:
 ---
 
 ## UI总揽
-![UI总揽](../_site/assets/img/UI.jpg)
+![UI总揽](../_site/assets/img/ui.jpg)
 
 
 
